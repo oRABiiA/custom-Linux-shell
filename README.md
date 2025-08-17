@@ -33,3 +33,11 @@ A Linux shell program developed in C for managing students, lecturers, and cours
    LockShell> LoginLecturer <username> <password>
    LockShell> exit
   The shell manages account validation, process execution, and user directories automatically.
+
+## Screenshots / Demo
+
+Here are some example outputs of the program in action:
+
+<img width="602" height="599" alt="Picture1" src="https://github.com/user-attachments/assets/4a89ea27-3fca-43c0-8a7b-f58cf2be0849" />
+<img width="602" height="757" alt="Picture2" src="https://github.com/user-attachments/assets/9f36be00-e058-416e-afbb-442f53d7a0e7" />
+<img width="580" height="683" alt="Picture3" src="https://github.com/user-attachments/assets/b1519744-7242-4f00-a48d-4ba53430b49e" />
