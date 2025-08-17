@@ -1,0 +1,18 @@
+## shell for the new system 
+
+clear 
+echo "//Courses dir created, student dir created , all student dir created in student dir."
+cc LoginStudent.c -o LoginStudent
+cc LoginLecturer.c -o LoginLecturer
+cc SetCourses.c -o SetCourses
+cc GetNewCourses.c -o GetNewCourses
+cc ShowCourses.c -o ShowCourses
+cc Locked_Shell.c -o Locked_Shell
+cc MakeSchedule.c -o MakeSchedule
+cc DeleteStudent.c -o DeleteStudent
+cc Freeze.c -o Freeze
+cc Approve.c -o Approve
+cc GetSchedule.c -o GetSchedule
+cc Exit.c -o Exit
+cc LogOut.c -o LogOut
+./Locked_Shell
