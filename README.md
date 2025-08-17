@@ -33,15 +33,3 @@ A Linux shell program developed in C for managing students, lecturers, and cours
    LockShell> LoginLecturer <username> <password>
    LockShell> exit
   The shell manages account validation, process execution, and user directories automatically.
-
-## Project Structure
-.
-├── Locked_shell.c       # Main shell program
-├── std_pass.txt         # Students' credentials
-├── lec_pass.txt         # Lecturers' credentials
-├── Student/             # Automatically created student directories
-├── Courses/             # Automatically created courses directory
-└── README.md
-
-
-
