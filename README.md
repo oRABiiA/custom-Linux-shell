@@ -34,7 +34,7 @@ A Linux shell program developed in C for managing students, lecturers, and cours
    LockShell> exit
   The shell manages account validation, process execution, and user directories automatically.
 
-## Screenshots / Demo
+## Screenshots
 
 Here are some example outputs of the program in action:
 
