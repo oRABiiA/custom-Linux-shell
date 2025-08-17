@@ -32,7 +32,7 @@ A Linux shell program developed in C for managing students, lecturers, and cours
    LockShell> LoginStudent <username> <password>
    LockShell> LoginLecturer <username> <password>
    LockShell> exit
-  # The shell manages account validation, process execution, and user directories automatically.
+  The shell manages account validation, process execution, and user directories automatically.
 
 ## Project Structure
 .
